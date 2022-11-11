@@ -1,4 +1,4 @@
-✨ <h1> welcome to my github page, i am new to this thank you </h1>✨
+ <h1>✨ welcome to my github page, i am new to this thank you ✨ </h1>
 
 - 👋 Hi, I’m Ronja
 - 👀 I’m interested in gaming, gym and a bit of programming
